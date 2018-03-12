@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snake1", "Snake1.csproj", "{F76AADB7-B287-07BB-E5A3-94FA8957F909}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snake1.Editor", "Snake1.Editor.csproj", "{34D0012D-4471-6616-7E89-F6ABDF086806}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F76AADB7-B287-07BB-E5A3-94FA8957F909}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F76AADB7-B287-07BB-E5A3-94FA8957F909}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F76AADB7-B287-07BB-E5A3-94FA8957F909}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F76AADB7-B287-07BB-E5A3-94FA8957F909}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34D0012D-4471-6616-7E89-F6ABDF086806}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34D0012D-4471-6616-7E89-F6ABDF086806}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34D0012D-4471-6616-7E89-F6ABDF086806}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34D0012D-4471-6616-7E89-F6ABDF086806}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,82 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960M (ID=0x139b)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   20.19.15.4624
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\rudi\Documents\Snake1\Snejk_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\rudi\Documents\Snake1\Snejk_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\rudi\Documents\Snake1\Snejk_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\rudi\Documents\Snake1\Snejk_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\rudi\Documents\Snake1\Snejk_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\rudi\Documents\Snake1\Snejk_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\rudi\Documents\Snake1\Snejk_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\rudi\Documents\Snake1\Snejk_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\rudi\Documents\Snake1\Snejk_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\rudi\Documents\Snake1\Snejk_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\rudi\Documents\Snake1\Snejk_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\rudi\Documents\Snake1\Snejk_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Users\rudi\Documents\Snake1\Snejk_Data\Managed\Mono.Data.Sqlite.dll (this message is harmless)
+Loading C:\Users\rudi\Documents\Snake1\Snejk_Data\Managed\Mono.Data.Sqlite.dll into Unity Child Domain
+- Completed reload, in  0.052 seconds
+Platform assembly: C:\Users\rudi\Documents\Snake1\Snejk_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\rudi\Documents\Snake1\Snejk_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 4.037590 ms
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 13.568641 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 412.
+Total: 0.811228 ms (FindLiveObjects: 0.061977 ms CreateObjectMapping: 0.040660 ms MarkObjects: 0.668326 ms  DeleteObjects: 0.038686 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.007029 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 348.
+Total: 0.607928 ms (FindLiveObjects: 0.039081 ms CreateObjectMapping: 0.034738 ms MarkObjects: 0.506080 ms  DeleteObjects: 0.026448 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.646614 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 380.
+Total: 0.551082 ms (FindLiveObjects: 0.039475 ms CreateObjectMapping: 0.027633 ms MarkObjects: 0.464630 ms  DeleteObjects: 0.018158 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.481605 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 1056.
+Total: 0.443708 ms (FindLiveObjects: 0.067503 ms CreateObjectMapping: 0.028027 ms MarkObjects: 0.339097 ms  DeleteObjects: 0.008684 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.795285 ms
+
+Unloading 53 unused Assets to reduce memory usage. Loaded Objects now: 321.
+Total: 14.328156 ms (FindLiveObjects: 0.056450 ms CreateObjectMapping: 0.048950 ms MarkObjects: 0.666747 ms  DeleteObjects: 13.554034 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.513032 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 321.
+Total: 0.674642 ms (FindLiveObjects: 0.040265 ms CreateObjectMapping: 0.044212 ms MarkObjects: 0.568847 ms  DeleteObjects: 0.020132 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.689248 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 351.
+Total: 0.449629 ms (FindLiveObjects: 0.033554 ms CreateObjectMapping: 0.022501 ms MarkObjects: 0.381336 ms  DeleteObjects: 0.011842 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.450419 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 346.
+Total: 0.325675 ms (FindLiveObjects: 0.015790 ms CreateObjectMapping: 0.016185 ms MarkObjects: 0.285805 ms  DeleteObjects: 0.007500 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2878 -> priority: 1 
+  Thread -> id: 14b4 -> priority: 1 
